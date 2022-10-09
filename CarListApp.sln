@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31611.283
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarListApp", "CarListApp\CarListApp.csproj", "{C1B99EC5-4B40-4B05-BF29-72E643305CC2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarListApp.Api", "CarListApp.Api\CarListApp.Api.csproj", "{9F183DFA-1BF2-4434-8710-29C4294CB81C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,10 @@ Global
 		{C1B99EC5-4B40-4B05-BF29-72E643305CC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1B99EC5-4B40-4B05-BF29-72E643305CC2}.Release|Any CPU.Build.0 = Release|Any CPU
 		{C1B99EC5-4B40-4B05-BF29-72E643305CC2}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{9F183DFA-1BF2-4434-8710-29C4294CB81C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F183DFA-1BF2-4434-8710-29C4294CB81C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F183DFA-1BF2-4434-8710-29C4294CB81C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F183DFA-1BF2-4434-8710-29C4294CB81C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
